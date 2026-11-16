@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/1xmcse585pxdb.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&family=JetBrains+Mono:wght@400;500&display=swap","style"]
+:HL["anish.jpg","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"mgvdCkpBaBw-eLH6eoVfX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
